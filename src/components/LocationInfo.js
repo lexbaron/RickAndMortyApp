@@ -1,7 +1,9 @@
-import axios from 'axios';
+
 import React, { useEffect, useState } from 'react';
 import ResidentsList from './ResidentsList';
 import SearchBox from './SearchBox';
+import axios from 'axios';
+
 
 const LocationInfo = () => {
 
